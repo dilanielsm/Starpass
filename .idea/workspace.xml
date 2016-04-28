@@ -52,7 +52,7 @@
     <file path="$PROJECT_DIR$/../jQuery-Image-Carousel-Plugin-For-Smart-TV-Apps-SliderTV/jQuery-Image-Carousel-Plugin-For-Smart-TV-Apps-SliderTV/package.json" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1460439901706" ignored="false" />
     <file path="$PROJECT_DIR$/../jQuery-Image-Carousel-Plugin-For-Smart-TV-Apps-SliderTV/jQuery-Image-Carousel-Plugin-For-Smart-TV-Apps-SliderTV/bower.json" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1460439901706" ignored="false" />
     <file path="/horizontal-carosel.css" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1460451887224" ignored="false" />
-    <file path="/blog.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1461733587897" ignored="false" />
+    <file path="/blog.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1461839981050" ignored="false" />
     <file path="/catalogue.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1461737203025" ignored="false" />
     <file path="E:/paginate/index.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1461231305558" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,7 +77,7 @@
       <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="80" selection-start="7681" selection-end="7681" vertical-scroll-proportion="0.0">
+            <state line="125" column="80" selection-start="7681" selection-end="7681" vertical-scroll-proportion="-0.65384614">
               <folding />
             </state>
           </provider>
@@ -86,16 +86,16 @@
       <file leaf-file-name="catalogue.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalogue.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="91" selection-start="8994" selection-end="8994" vertical-scroll-proportion="0.0">
+            <state line="340" column="83" selection-start="28736" selection-end="28736" vertical-scroll-proportion="-2.9215686">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4009" column="24" selection-start="92496" selection-end="92496" vertical-scroll-proportion="0.01954023">
+            <state line="4009" column="24" selection-start="92496" selection-end="92496" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,7 +122,7 @@
       <file leaf-file-name="why-us.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/why-us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="85" selection-start="5208" selection-end="5208" vertical-scroll-proportion="0.0">
+            <state line="155" column="57" selection-start="9619" selection-end="9619" vertical-scroll-proportion="-5.1764708">
               <folding />
             </state>
           </provider>
@@ -131,25 +131,16 @@
       <file leaf-file-name="checkout.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/checkout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="4" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0">
+            <state line="33" column="115" selection-start="1650" selection-end="1650" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="blog.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="254" column="39" selection-start="13776" selection-end="13776" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog-archive.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog-archive.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="216" column="98" selection-start="16256" selection-end="16256" vertical-scroll-proportion="0.0">
+            <state line="269" column="14" selection-start="15655" selection-end="15655" vertical-scroll-proportion="0.7985782">
               <folding />
             </state>
           </provider>
@@ -158,7 +149,7 @@
       <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="62" selection-start="1672" selection-end="1672" vertical-scroll-proportion="0.0">
+            <state line="124" column="38" selection-start="5761" selection-end="7858" vertical-scroll-proportion="-22.884615">
               <folding />
             </state>
           </provider>
@@ -184,9 +175,9 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/catalogue.html" />
-        <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/shopping-cart.html" />
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
+        <option value="$PROJECT_DIR$/blog.html" />
       </list>
     </option>
   </component>
@@ -222,6 +213,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -406,7 +398,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -443,7 +434,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -534,11 +525,6 @@
         <state line="935" column="57" selection-start="26921" selection-end="26921" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="62" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/carosel/sliderTV.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="29" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" />
@@ -554,37 +540,9 @@
         <state line="9" column="0" selection-start="124" selection-end="125" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog-archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="216" column="98" selection-start="16256" selection-end="16256" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="62" selection-start="1672" selection-end="1672" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="4" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/why-us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="85" selection-start="5208" selection-end="5208" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="80" selection-start="7681" selection-end="7681" vertical-scroll-proportion="0.0">
+        <state line="125" column="80" selection-start="7681" selection-end="7681" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
@@ -592,20 +550,6 @@
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="339" column="102" selection-start="22421" selection-end="22464" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="254" column="39" selection-start="13776" selection-end="13776" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalogue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="91" selection-start="8994" selection-end="8994" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -619,7 +563,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4009" column="24" selection-start="92496" selection-end="92496" vertical-scroll-proportion="0.01954023">
+        <state line="4009" column="24" selection-start="92496" selection-end="92496" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="38" selection-start="5761" selection-end="7858" vertical-scroll-proportion="-22.884615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="115" selection-start="1650" selection-end="1650" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/why-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="57" selection-start="9619" selection-end="9619" vertical-scroll-proportion="-5.1764708">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalogue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="340" column="83" selection-start="28736" selection-end="28736" vertical-scroll-proportion="-2.9215686">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="14" selection-start="15655" selection-end="15655" vertical-scroll-proportion="0.7985782">
           <folding />
         </state>
       </provider>
