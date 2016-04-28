@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../edappy-nethan/index.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1445589089390" ignored="false" />
     <file path="$PROJECT_DIR$/../edappy-nethan/assets/css/styles.css" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1445589435501" ignored="false" />
-    <file path="/styles.css" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1461729478699" ignored="false" />
+    <file path="/styles.css" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1461751949965" ignored="false" />
     <file path="/index.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1459250870822" ignored="false" />
     <file path="C:/xampp/htdocs/learning-platform-skin-orange-old/css/your_style.css" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1445500226485" ignored="false" />
     <file path="/your_style.css" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1445499740697" ignored="false" />
@@ -44,7 +44,7 @@
     <file path="/home.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1461737060502" ignored="false" />
     <file path="E:/env/bootstrap-vertical-tabs-1.2.1/bootstrap-vertical-tabs-1.2.1/demo.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1459421930668" ignored="false" />
     <file path="/demo.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1459421930668" ignored="false" />
-    <file path="/shopping-cart.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1461663764320" ignored="false" />
+    <file path="/shopping-cart.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1461751930634" ignored="false" />
     <file path="/checkout.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1460456892518" ignored="false" />
     <file path="$PROJECT_DIR$/../jQuery-Image-Carousel-Plugin-For-Smart-TV-Apps-SliderTV/jQuery-Image-Carousel-Plugin-For-Smart-TV-Apps-SliderTV/examples/index.html" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1460441604172" ignored="false" />
     <file path="$PROJECT_DIR$/../jQuery-Image-Carousel-Plugin-For-Smart-TV-Apps-SliderTV/jQuery-Image-Carousel-Plugin-For-Smart-TV-Apps-SliderTV/examples/css/horizontal.css" changelist="ffff7998-5577-4d7d-aabb-71d0768a27db" time="1460439973844" ignored="false" />
@@ -92,10 +92,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3634" column="54" selection-start="82264" selection-end="82264" vertical-scroll-proportion="0.0">
+            <state line="4009" column="24" selection-start="92496" selection-end="92496" vertical-scroll-proportion="0.01954023">
               <folding />
             </state>
           </provider>
@@ -113,7 +113,7 @@
       <file leaf-file-name="shopping-cart.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shopping-cart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="32" selection-start="10511" selection-end="10511" vertical-scroll-proportion="0.0">
+            <state line="93" column="56" selection-start="5338" selection-end="5338" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -137,10 +137,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="254" column="39" selection-start="13776" selection-end="13776" vertical-scroll-proportion="0.6122449">
+            <state line="254" column="39" selection-start="13776" selection-end="13776" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -180,21 +180,21 @@
         <option value="$PROJECT_DIR$/catalog.html" />
         <option value="$PROJECT_DIR$/checkout.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/shopping-cart.html" />
         <option value="$PROJECT_DIR$/why-us.html" />
-        <option value="$PROJECT_DIR$/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/catalogue.html" />
         <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/shopping-cart.html" />
+        <option value="$PROJECT_DIR$/assets/css/styles.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1302" />
-    <option name="y" value="35" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1045" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -222,7 +222,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -407,6 +406,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -442,7 +442,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1302" y="35" width="1936" height="1045" extended-state="0" />
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -575,23 +575,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopping-cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="32" selection-start="10511" selection-end="10511" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/why-us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="88" column="85" selection-start="5208" selection-end="5208" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3634" column="54" selection-start="82264" selection-end="82264" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -610,6 +596,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="254" column="39" selection-start="13776" selection-end="13776" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/catalogue.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="145" column="91" selection-start="8994" selection-end="8994" vertical-scroll-proportion="0.0">
@@ -617,9 +610,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/shopping-cart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="254" column="39" selection-start="13776" selection-end="13776" vertical-scroll-proportion="0.6122449">
+        <state line="93" column="56" selection-start="5338" selection-end="5338" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4009" column="24" selection-start="92496" selection-end="92496" vertical-scroll-proportion="0.01954023">
           <folding />
         </state>
       </provider>

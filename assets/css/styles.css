@@ -3632,7 +3632,7 @@ label{ color:#2E893C;font-size: 18px; font-weight: 300; min-height: 45px;}
     margin-right: 20px;
     border-radius: 20px;
 }
-.home-page .banner-image{ margin-top:70px;float:right;}
+.home-page .banner-image{ margin-top:100px;float:right;}
 .header .main-nav .nav .nav-item.nav-item-cta a.btn-cta-secondary:hover {
     border: 1px solid #2E893C;
     background:#2E893C url('../../assets/images/home/login-img2.png') no-repeat left 15px center;
@@ -4007,6 +4007,7 @@ ul.list-unstyled .cart-item-box{
 
 .fragment:hover {
     cursor:pointer;
+    background: #f5f5f5;
 
 }
 
@@ -4029,38 +4030,36 @@ ul.list-unstyled .cart-item-box{
 #close{
     background: url("../../assets/images/cart/close-icon.png") no-repeat 0 4px;
     color: transparent;
-    float: right;
     width: 31px;
     height: 35px;
+    position: absolute;
+    right: 0;
 }
 
 #close1{
     background: url("../../assets/images/cart/close-icon.png") no-repeat 0 4px;
     color: transparent;
-    position: absolute;
-    right: 0;
     width: 31px;
     height: 35px;
-    top: 310px;
+    position: absolute;
+    right: 0;
 }
 #close2{
     background: url("../../assets/images/cart/close-icon.png") no-repeat 0 4px;
     color: transparent;
-    position: absolute;
-    right: 0;
     width: 31px;
     height: 35px;
-    top:520px;
+    position: absolute;
+    right: 0;
 }
 
 #close3{
     background: url("../../assets/images/cart/close-icon.png") no-repeat 0 4px;
     color: transparent;
-    position: absolute;
-    right: 0;
     width: 31px;
     height: 35px;
-    top: 720px;
+    position: absolute;
+    right: 0;
 }
 
 /*blogs page*/
